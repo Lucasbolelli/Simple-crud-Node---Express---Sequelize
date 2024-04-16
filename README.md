@@ -90,6 +90,7 @@ Aqui é onde separamos os Padawans dos Jedis! Aqui você vai apontar algumas mel
 
 Vamos lá?!  
 
- 
+
+OBS -> Tive difiuldades no uso do ORM Sequelize, e no chamador de rotas. Obrigado pela Oportunidade.
 
  
